@@ -8,4 +8,4 @@ echo "Testing git pull"
 echo "we are learning git/github"
 echo "we are learning git bash"
 
-echo "hello welcome to devops"
+echo "we are learning git fetch and git pull
